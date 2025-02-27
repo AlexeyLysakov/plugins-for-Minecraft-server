@@ -16,7 +16,7 @@
 Это будет отдельный плагин, который запретит игрокам ломать карту и поможет им перемещаться по миру (либо каждый режим будет находится в своём отдельном мире, либо всё будет в одном мире, так как пока что не планируется масштабное открытие сервера, а только для группы)
 
 ### Описание Bedwars
-![BedWars] (https://play.google.com/store/apps/details?id=com.sandboxol.indiegame.bedwar&hl=ru "Bed Wars") 
+![BedWars] (https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e8f0bf07-8899-485a-ac38-d8b26422e6c4/OriginalBedWars_Thumbnail_0.jpg "Bed Wars") 
 
 ---ОписаниеЗамков---
 
