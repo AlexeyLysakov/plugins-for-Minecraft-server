@@ -1,5 +1,4 @@
-<h1 align="center">Плагины для сервера Minecraft</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Плагины для сервера Minecraft</h1> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 #Описание:
 Наш проект состоит из плагинов, которые помогут создать режимы для сервера Minecraft и настроить его
 Так как Minecraft написан на java, то и, естественно, плагины будут на java
